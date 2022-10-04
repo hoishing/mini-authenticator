@@ -2,6 +2,10 @@
 
 > minimal opensrouce 2FA authenticator that never store your secret keys
 
+Download @ Chrome Web Store
+
+![usage](https://lh3.googleusercontent.com/08UF2M6BtQFQD1gQkES3iCa6PgYM-Rol21WzsK5Cl16gkkHLAzNoJ3wOIU0pmPiWUogvXgWqdzNvy7joAr_EVRIE=w640-h400-e365-rj-sc0x00ffffff)
+
 ## Features
 
 - no special permission need: we don't read / write your web pages
@@ -11,6 +15,8 @@
 - open source: everyone can check the source code integrity
 
 ## How to use
+
+🎬 https://youtu.be/tNCisD1uoA4
 
 1. click on the extension button
 2. paste your secret key
@@ -27,6 +33,20 @@ This is where Mini Authenticator comes in. It designed with a "less is more" phi
 I agree that this extension is not for everyone, but only those already using password mangers to manage their secret keys, also those who concern about chrome extension permissions and abilities.
 
 ## Technical Details
+
+### How to build
+
+```shell
+git clone https://github.com/hoishing/mini-authenticator.git
+cd mini-authenticator
+npm install
+npm run build
+```
+
+### Run dev server
+
+- `npm run dev`
+- open `http://localhost:5173/popup.html` in browser
 
 ### TOTP generation
 

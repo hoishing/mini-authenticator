@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "mini authenticator",
+  "version": "1.0.0",
+  "action": { "default_popup": "popup.html" },
+  "icons": {
+    "64": "auth-64.png",
+    "128": "auth-128.png"
+  }
+}

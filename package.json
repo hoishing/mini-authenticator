@@ -1,8 +1,15 @@
 {
   "name": "mini-auth",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
+  "keywords": [
+    "authenticator",
+    "totp",
+    "chrome extension"
+  ],
+  "author": "Kelvin Ng",
+  "license": "ISC",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",

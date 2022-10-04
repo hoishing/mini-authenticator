@@ -1,6 +1,7 @@
 {
   "manifest_version": 3,
   "name": "mini authenticator",
+  "description": "minimal opensrouce 2FA authenticator that never store your secret keys",
   "version": "1.0.0",
   "action": { "default_popup": "popup.html" },
   "icons": {

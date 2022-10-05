@@ -4,7 +4,7 @@
 
 [Download](https://bit.ly/3yDVq1N) @ Chrome Web Store
 
-<img srcset="https://i.imgur.com/62cgIKe.png 2x">
+<img src="https://i.imgur.com/62cgIKe.png" width=640>
 
 ## Features
 

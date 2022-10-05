@@ -9,14 +9,14 @@
 ## Features
 
 - no special permission need: we don't read / write your web pages
-- simple, single-purpose: just paste your key and we generate the [TOTP](https://en.wikipedia.org/wiki/Time-based_one-time_password) for [2FA](https://en.wikipedia.org/wiki/Multi-factor_authentication)
+- simple and single-purpose: just paste your key and we generate the [TOTP](https://en.wikipedia.org/wiki/Time-based_one-time_password) for [2FA](https://en.wikipedia.org/wiki/Multi-factor_authentication)
 - secure: we do **NOT** store your keys in any places (cookies, chrome storage, cloud ... etc)
 - offline: no sensitive data transmitted over the internet
 - open source: everyone can check the source code integrity
 
 ## How to use
 
-🎬 https://youtu.be/tNCisD1uoA4
+🎬 https://youtu.be/64P0G7dOpKY
 
 1. click on the extension button
 2. paste your secret key

@@ -1,5 +1,5 @@
 {
-  "name": "mini-auth",
+  "name": "mini-authenticator",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -34,5 +34,13 @@
     "tailwindcss": "^3.1.8",
     "typescript": "^4.8.4",
     "vite": "^3.1.4"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/hoishing/mini-authenticator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoishing/mini-authenticator.git"
+  },
+  "homepage": "https://github.com/hoishing/mini-authenticator#readme"
 }

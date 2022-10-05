@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "mini authenticator",
-  "description": "minima open source 2FA authenticator that never store your secret keys",
-  "version": "1.0.1",
+  "description": "minimal open source authenticator that never store your secret keys",
+  "version": "1.0.2",
   "action": { "default_popup": "popup.html" },
   "icons": {
     "64": "auth-64.png",

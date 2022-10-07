@@ -1,6 +1,8 @@
 # Mini Authenticator
 
-> minimal open source 2FA authenticator that never store your secret keys
+minimal open source 2FA authenticator that never store your secret keys
+
+[![GitHub](https://img.shields.io/github/license/hoishing/mini-authenicator)](https://opensource.org/licenses/MIT)
 
 [Download](https://bit.ly/3yDVq1N) @ Chrome Web Store
 

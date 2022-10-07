@@ -9,7 +9,7 @@
     "chrome extension"
   ],
   "author": "Kelvin Ng",
-  "license": "ISC",
+  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",

@@ -1,5 +1,7 @@
 # Mini Authenticator
 
+![banner](https://i.imgur.com/A58mjCY.png)
+
 minimal open source 2FA authenticator that never store your secret keys
 
 [![GitHub](https://img.shields.io/github/license/hoishing/mini-authenicator)](https://opensource.org/licenses/MIT)

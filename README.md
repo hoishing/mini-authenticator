@@ -1,14 +1,12 @@
 # Mini Authenticator
 
-![banner](https://i.imgur.com/A58mjCY.png)
-
-minimal open source 2FA authenticator that never store your secret keys
+> minimal open source 2FA authenticator that never store your secret keys
 
 [![GitHub](https://img.shields.io/github/license/hoishing/mini-authenicator)](https://opensource.org/licenses/MIT)
 
 [Download](https://bit.ly/3yDVq1N) @ Chrome Web Store
 
-<img src="https://i.imgur.com/62cgIKe.png" width="640">
+<img src="https://i.imgur.com/62cgIKe.png" width="640" />
 
 ## Features
 
@@ -58,7 +56,7 @@ npm run build
 
 I created a pure JS npm package to generate TOTP, please refer [toto-auth](https://github.com/hoishing/totp-auth) for the program logic and implementation details.
 
-### Tooling
+### Tech Stack
 
 Though this is a simple chrome extension, a whole stack of modern web technologies have been employed to enhance the code quality and DX.
 

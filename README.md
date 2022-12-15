@@ -6,7 +6,7 @@
 
 [Download](https://bit.ly/3yDVq1N) @ Chrome Web Store
 
-<img src="https://i.imgur.com/62cgIKe.png" width="640" />
+<p><img src="https://i.imgur.com/62cgIKe.png" width="640" /></p>
 
 ## Features
 

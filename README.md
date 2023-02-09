@@ -74,9 +74,13 @@ Though this is a simple chrome extension, a whole stack of modern web technologi
 - [daisyUI](https://daisyui.com): tailwind component library, color theme
 - [Typescript](https://www.typescriptlang.org/): typed JS for better code quality
 
-## Need Help?
-
-Open a [github issue](https://github.com/hoishing/mini-authenticator/issues) or ping me on [Twitter](https://twitter.com/hoishing)
-
 [react]: https://reactjs.org
 [tailwindcss]: https://tailwindcss.com
+
+## Questions?
+
+Open a [github issue] or ping me on [Twitter ![twitter-icon]][Twitter]
+
+[github issue]: https://github.com/hoishing/mini-authenticator/issues
+[Twitter]: https://twitter.com/intent/tweet?text=https://github.com/hoishing/mini-authenticator/%20%0D@hoishing
+[twitter-icon]: https://api.iconify.design/logos/twitter.svg?width=20

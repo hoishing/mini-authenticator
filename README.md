@@ -13,7 +13,7 @@
 [front-end]: https://img.shields.io/badge/front--end-React-blue
 [css-badge]: https://img.shields.io/badge/css-tailwind-blue
 [mit]: https://img.shields.io/github/license/hoishing/mini-authenicator
-[prettier-badge]: https://bit.ly/3YfuaRX
+[prettier-badge]: https://img.shields.io/badge/formatter-prettier-yellow
 
 ## Features
 

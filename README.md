@@ -1,12 +1,19 @@
 # Mini Authenticator
 
+[![front-end]][react] [![css-badge]][tailwindcss] ![ts-badge] ![prettier-badge] ![mit]
+
 > minimal open source 2FA authenticator that never store your secret keys
 
-[![GitHub](https://img.shields.io/github/license/hoishing/mini-authenicator)](https://opensource.org/licenses/MIT)
-
-[Download](https://bit.ly/3yDVq1N) @ Chrome Web Store
+📥 [Download] @ Chrome Web Store
 
 <p><img src="https://i.imgur.com/62cgIKe.png" width="640" /></p>
+
+[download]: https://bit.ly/3yDVq1N
+[ts-badge]: https://img.shields.io/badge/%3C%2F%3E-TypeScript-blue
+[front-end]: https://img.shields.io/badge/front--end-React-blue
+[css-badge]: https://img.shields.io/badge/css-tailwind-blue
+[mit]: https://img.shields.io/github/license/hoishing/mini-authenicator
+[prettier-badge]: https://bit.ly/3YfuaRX
 
 ## Features
 
@@ -61,12 +68,15 @@ I created a pure JS npm package to generate TOTP, please refer [toto-auth](https
 Though this is a simple chrome extension, a whole stack of modern web technologies have been employed to enhance the code quality and DX.
 
 - [Vite](https://vitejs.dev): dev server w/ hot module reload
-- [React](https://reactjs.org): xss protection, component creation and state management
+- [React]: xss protection, component creation and state management
 - [CRXJS](https://crxjs.dev/vite-plugin): vite plugin that greatly enhance DX for creating chrome ext
-- [tailwindcss](https://tailwindcss.com): utility-first CSS framework
+- [tailwindcss]: utility-first CSS framework
 - [daisyUI](https://daisyui.com): tailwind component library, color theme
 - [Typescript](https://www.typescriptlang.org/): typed JS for better code quality
 
 ## Need Help?
 
 Open a [github issue](https://github.com/hoishing/mini-authenticator/issues) or ping me on [Twitter](https://twitter.com/hoishing)
+
+[react]: https://reactjs.org
+[tailwindcss]: https://tailwindcss.com

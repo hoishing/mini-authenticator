@@ -25,7 +25,7 @@
 
 ## How to use
 
-🎬 https://youtu.be/64P0G7dOpKY
+🎬 [video demo](https://youtu.be/64P0G7dOpKY)
 
 1. click on the extension button
 2. paste your secret key
